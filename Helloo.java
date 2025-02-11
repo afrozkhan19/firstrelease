@@ -5,7 +5,7 @@
          {
              int aa=10; int bb;
               try{
-              bb=aa/0;
+              bb=aa/10;
 System.out.println(bb);
     System.out.println(args[0]);
                }
